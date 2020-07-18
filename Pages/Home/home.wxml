@@ -1,0 +1,3 @@
+<!--Home/home.wxml-->
+<text id="titl">Hello World</text>
+<button>测试</button>

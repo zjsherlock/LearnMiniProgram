@@ -1,0 +1,4 @@
+/* Home/home.wxss */
+#titl{
+  color: rebeccapurple;
+}
